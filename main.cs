@@ -263,7 +263,7 @@ namespace InvincibleTiles
                 args.Handled = true;
                 TSPlayer.All.SendTileSquare(args.X, args.Y, 1);
             }
-            else if ((args.Action == TShockAPI.GetDataHandlers.EditAction.KillTile || args.Action == GetDataHandlers.EditAction.KillTileNoItem) && blacklistedTiles.Contains(Main.tile[args.X, args.Y].type))
+            else if ((args.Action == TShockAPI.GetDataHandlers.EditAction.KillTile || args.Action == GetDataHandlers.EditAction.KillTileNoItem || args.Action == GetDataHandlers.EditAction.PoundTile || args.Action == GetDataHandlers.EditAction.SlopeTile) && blacklistedTiles.Contains(Main.tile[args.X, args.Y].type))
             {
                 args.Handled = true;
                 TSPlayer.All.SendTileSquare(args.X, args.Y, 1);

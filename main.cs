@@ -28,17 +28,17 @@ namespace InvincibleTiles
 
         public override string Name
         {
-            get { return "Invincible Tiles"; }
+            get { return "TileWallProtector"; }
         }
 
         public override string Author
         {
-            get { return "PR0.7"; }
+            get { return "Atualizado>Vednix"; }
         }
 
         public override string Description
         {
-            get { return "Makes certain tiles indestructable"; }
+            get { return "Torna certos objetos indestrutíveis"; }
         }
 
         public TileWallProtector(Main game) : base(game)

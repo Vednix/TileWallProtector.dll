@@ -1,0 +1,6 @@
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\bin\TileWallProtector.dll
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\bin\TileWallProtector.pdb
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\obj\Debug\TileWallProtector.csprojAssemblyReference.cache
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\obj\Debug\TileWallProtector.csproj.CoreCompileInputs.cache
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\obj\Debug\TileWallProtector.dll
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\TileWallProtector.dll\obj\Debug\TileWallProtector.pdb
